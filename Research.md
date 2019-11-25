@@ -9,7 +9,17 @@
 * How evaluate the prediction model
 * How to extract data
 
+2. Plan
+
+* Main RL Model:
+    * Q-Learning
+    * Deep Q-network(DQN)
+    * Policy Model
+    * LSTM
+
 ## RL Syllabus
+
+[Medium Reinforcement Learning](https://towardsdatascience.com/november-edition-deep-learning-6d97357a975b)
 
 [Reinforcement Learning](https://deeplizard.com/learn/video/nyjbcRQ-uQ8)
 
