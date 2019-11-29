@@ -4,6 +4,8 @@
 
 1. Create a python notebook that develops a stock price predictive model using Reinforcement Learning, python and TensorFlow.
 
+[current solution 1](https://ieeexplore.ieee.org/document/931880)
+
 * Whicn kind of RL model needed to be built to model stock price prediction
 * Which kind of TensorFlow APIs will been used in building RL model
 * How evaluate the prediction model
