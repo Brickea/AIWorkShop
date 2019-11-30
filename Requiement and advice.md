@@ -10,13 +10,14 @@ You will find the instructions to create the notebook as below. As mentioned bef
 
 2. Use stock API from [AlphaVantage](https://www.alphavantage.co/documentation/).You can use the code in this [notebook](https://github.com/ninadsubhedar/StockPredictionWithLSTM/blob/master/StockPricePredictionWithLSTM.ipynb) to grab the data.
 
-3. Get one or more Deep RL models working on stock data that you download. 
+3. Get one or more Deep RL models working on stock data that you download.
 We highly recommend to refer to these tutorials as well when developing the notebook:
-*  [MIT 6.S191: Deep Reinforcement Learning](https://youtu.be/i6Mi2_QM3rA) 
-*  [Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 1 - Intro...](https://youtu.be/FgzM3zpZ55o) 
-*  [Reinforcement Learning Series Intro - DeepLizard](https://youtu.be/nyjbcRQ-uQ8)  
 
-4. Send your notebook by midnight on **Nov 30** to Prof Nik Brown 
+* [MIT 6.S191: Deep Reinforcement Learning](https://youtu.be/i6Mi2_QM3rA)
+* [Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 1 - Intro...](https://youtu.be/FgzM3zpZ55o)
+* [Reinforcement Learning Series Intro - DeepLizard](https://youtu.be/nyjbcRQ-uQ8)  
+
+4. Send your notebook by midnight on **Nov 30** to Prof Nik Brown
 
 5. Prof Nik will choose/combine and update the notebooks to give details on the maths and algorithms involved.
 
