@@ -10,3 +10,9 @@
 
 [Financial Machine Learning and Data Science](https://github.com/firmai/financial-machine-learning/blob/master/README.md)
 [Stock prediction](https://github.com/firmai/financial-machine-learning/blob/master/README.md)
+
+## Offical Event
+
+* [TA document](WorkShop/TA&#32;document.md) 
+* [Introduction](WorkShop/Introduction.md)
+* [Github Project](WorkShop/NEU_Skunkworks_EM_Lyon/README.md)
